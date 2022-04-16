@@ -1,11 +1,30 @@
-## Oiii eu sou Evandro Santana, apaixonado por programação e tecnologia!
+## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Evandro Santana
+
+**Full Stack Developer** ,site [@evandrosantana](https://evandrosantana.com) | [Note: Page under construction].
+
+---
+## 👨‍💻 About Me
+💻 ┇I'm a Javascript Developer I live in <b>São Raimundo Nonato-PI, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brasil</b>;<br />
+🎯 ┇Looking to contribute to open source projects;<br />
+💾 ┇The technologies I like to work with are ReactJS, React Native, Typescript, Git, GraphQL and Laravel;<br />
+😍 ┇Passionate about challenges and problem solving with technology;<br />
+
+> “When something is important enough, you do it, even if the odds aren't in your favor.”
+― Elon Musk
+
+---
+
+## ⚙️ &nbsp;GitHub Analytics  
+
 <div align="center">
   <a href="https://github.com/evandromsantana">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evandromsantana&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandromsantana&layout=compact&langs_count=7&theme=blue-green"/>
-  
-  
+    
 </div>
+
+## 🛠 Tech Stack
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Evandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Evandro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
