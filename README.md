@@ -6,7 +6,7 @@
 ## 👨‍💻 About Me
 💻 ┇I'm a Javascript Developer I live in <b>São Raimundo Nonato-PI, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brasil</b>;<br />
 🎯 ┇Looking to contribute to open source projects;<br />
-💾 ┇The technologies I like to work with are ReactJS, React Native, Typescript, Git, GraphQL and Laravel;<br />
+💾 ┇The technologies I like to work with are ReactJS, React Native, Typescript, Git and Laravel;<br />
 😍 ┇Passionate about challenges and problem solving with technology;<br />
 
 > “When something is important enough, you do it, even if the odds aren't in your favor.”
