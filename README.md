@@ -1,6 +1,6 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Evandro Santana
 
-**Full Stack Developer** ,site [evandrosantana.com](https://evandrosantana.com) | [Note: Page under construction].
+**Full Stack Developer** ,site [@evandrosantana](https://evandrosantana.com) | [Note: Page under construction].
 
 ---
 ## 👨‍💻 About Me
@@ -26,12 +26,16 @@
 ## 🛠 Tech Stack
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Evandro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Evandro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Evandro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Evandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Evandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Evandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="30" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="Evandro-React" height="30" width="40" />
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="30" width="40" /> 
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="30" width="40" /> 
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" width="40" /> 
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" width="40" />
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" width="40" /> 
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="30" width="40" />
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git"height="30" width="40" />
+  <img align="center" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="30" width="40" /> 
   
 </div>
   
