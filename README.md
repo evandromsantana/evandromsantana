@@ -23,7 +23,7 @@
 </div>
 
 
-## 🛠 Tech Stack
+## 🛠  Languages and Tools:
 
 <div style="display: inline_block"><br>
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="" alt="J" height="30" width="40" />
