@@ -30,21 +30,11 @@
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="" alt="J" height="30" width="40" />
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="" alt="J" height="30" width="40" />
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="" alt="J" height="30" width="40" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="" alt="J" height="30" width="40" /> 
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="" alt="J" height="30" width="40" />
+  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="" alt="J" height="30" width="40" />     
 
-  <img align="center" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="30" width="40" /> 
-  
-
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="" alt="J" height="30" width="40" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="" alt="J" height="30" width="40" />
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="" alt="J" height="30" width="40" />
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="" alt="J" height="30" width="40" />
   <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="" alt="J" height="30" width="40" />
-
-
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="" alt="J" height="30" width="40" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="" alt="J" height="30" width="40" />
     
 </div>
 
