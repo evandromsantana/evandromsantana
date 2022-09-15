@@ -9,9 +9,6 @@
 💾 ┇The technologies I like to work with are ReactJS, React Native, Typescript, Git and Laravel;<br />
 😍 ┇Passionate about challenges and problem solving with technology;<br />
 
-> “When something is important enough, you do it, even if the odds aren't in your favor.”
-― Elon Musk
-
 ---
 
 ## ⚙️ &nbsp;GitHub Analytics  
