@@ -1,6 +1,6 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Evandro Santana
 
-**Full Stack Developer** ,site [@evandrosantana](https://evandrosantana.com) | [Note: Page under construction].
+**Developer ReactJS | React Native | NodeJS | Javascript | Typescript**.
 
 ---
 ## 👨‍💻 About Me
@@ -42,11 +42,9 @@
   
 ## 📡 Connect with me
  
-<div align="center">   
-  <a href="https://instagram.com/evandrodemacedosa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/evandrodev" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:evandromacsan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/evandro-m-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<div align="center">     
+    <a href="https://www.linkedin.com/in/evandro-m-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+    <a href = "mailto:evandromacsan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
 <div align="center">
