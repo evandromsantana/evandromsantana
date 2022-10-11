@@ -1,6 +1,10 @@
 ## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Evandro Santana
 
-**Developer ReactJS | React Native | NodeJS | Javascript | Typescript**.
+**Working with development in ReactJS and React Native. I also have experience in web and backend
+development with NodeJS.
+I am passionate about the best web and mobile development technologies. I Have experience in projects
+using JavaScript, Typescript, NodeJS, ReactJS and React Native.
+**
 
 ---
 ## 👨‍💻 About Me
