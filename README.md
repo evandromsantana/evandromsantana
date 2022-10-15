@@ -32,6 +32,7 @@
     <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=evandromsantana&layout=compact&langs_count=7&theme=blue-green" alt="evandromsantana"/>
     <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=evandromsantana&layout=compact&langs_count=7&theme=blue-green" alt="evandromsantana" /></p>
 </div>
+
 ---
 
 <h3 align="left">Languages and Tools:</h3>
