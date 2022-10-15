@@ -1,52 +1,43 @@
-## <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there, I'm Evandro Santana
+<h1 align="center">Hi 👋, I'm Evandro Santana</h1>
+<h3 align="center">Working with development in ReactJS and React Native. I also have experience in web and backend development with NodeJS. I am passionate about the best web and mobile development technologies. I Have experience in projects using JavaScript, Typescript, NodeJS, ReactJS and React Native.</h3>
 
-**Working with development in ReactJS and React Native. I also have experience in web and backend
-development with NodeJS.
-I am passionate about the best web and mobile development technologies. I Have experience in projects
-using JavaScript, Typescript, NodeJS, ReactJS and React Native.
-**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=evandromsantana&label=Profile%20views&color=0e75b6&style=flat" alt="evandromsantana" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=evandromsantana"
+
+
+- 🔭 I’m currently working on **In the last six months I've been working with personal projects**
+
+- 🌱 Main technologies I like to work with. **ReactJS, React Native, Typescript, NodeJS...**
+
+- 📫 How to reach me **evandromsantana@hotmail.com | Telefone: +55 (89)981219879**
+
+- ⚡ Fun fact **I had the opportunity to dedicate myself for a year and a half at the beginning of my career as practically full-time, making my own applications, gaining experience.**
+
+- 😍 **Passionate about challenges and problem solving with technology.**
 
 ---
-## 👨‍💻 About Me
-💻 ┇I'm a Javascript Developer I live in <b>São Raimundo Nonato-PI, <img src="https://cdn-icons-png.flaticon.com/512/330/330430.png" width="15"/> Brasil</b>;<br />
-🎯 ┇Looking to contribute to open source projects;<br />
-💾 ┇The technologies I like to work with are ReactJS, React Native, Typescript, Git and Laravel;<br />
-😍 ┇Passionate about challenges and problem solving with technology;<br />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/evandromsantana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="evandromsantana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/evandro-m-santana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="evandro-m-santana" height="30" width="40" /></a>
+<a href="https://fb.com/evandromsantana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="evandromsantana" height="30" width="40" /></a>
+<a href="https://instagram.com/evandrodemacedosa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="evandrodemacedosa" height="30" width="40" /></a>
+<a href="https://discord.gg/Evandro#5062" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Evandro#5062" height="30" width="40" /></a>
+</p>
 
 ---
-
-## ⚙️ &nbsp;GitHub Analytics  
-
 <div align="center">
-  <a href="https://github.com/evandromsantana">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=evandromsantana&show_icons=true&theme=blue-green&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evandromsantana&layout=compact&langs_count=7&theme=blue-green"/>    
+    <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=evandromsantana&layout=compact&langs_count=7&theme=blue-green" alt="evandromsantana"/>
+    <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=evandromsantana&layout=compact&langs_count=7&theme=blue-green" alt="evandromsantana" /></p>
 </div>
+---
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
 
-## 🛠  Languages and Tools:
-
-<div style="display: inline_block"><br>
-
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="" alt="J" height="30" width="40" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="" alt="J" height="30" width="40" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="" alt="J" height="30" width="40" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/php/php-plain.svg" title="" alt="J" height="30" width="40" />     
-
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/laravel/laravel-plain-wordmark.svg" title="" alt="J" height="30" width="40" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="" alt="J" height="30" width="40" />
-  <img align="center" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="" alt="J" height="30" width="40" />
-    
-</div>
-
-<br>
-  
-## 📡 Connect with me
- 
-<div align="center">     
-    <a href="https://www.linkedin.com/in/evandro-m-santana" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href = "mailto:evandromacsan@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
+---
 
 <div align="center">
   
