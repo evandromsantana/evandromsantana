@@ -15,8 +15,6 @@
 
 - 🤝 I'm looking to contribute **in open source projects;**
 
-- 📫 How to reach me **evandromsantana@hotmail.com | Telefone: +55 (89)981219879**
-
 ---
 
 <h3 align="left">Connect with me:</h3>
