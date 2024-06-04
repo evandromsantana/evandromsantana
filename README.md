@@ -17,6 +17,7 @@
     <img src="https://img.shields.io/badge/-evandromsantana@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
+<p>
 🔭 I’m currently working as a Front-end Engineer at
 <a
     href="https://www.sead.pi.gov.br/"
@@ -24,8 +25,13 @@
     >
     Secretaria da Administração - (SEAD-PI).
 </a>
+</p>
+<p>
 🌱 Main technologies I like to work with: ReactJS, React Native, NextJS, Typescript, NodeJS...
+</p>
+<p>   
 🤝 I'm looking to contribute to open source projects.
+</p>
 <h2>🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
 <p>
