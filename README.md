@@ -45,5 +45,6 @@
   <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL"/>
 </p>
 <h2>🚀 &nbsp;A Little More About Me</h2>
-
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=evandromsantana&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/evandromsantana/github-readme-stats#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=evandromsantana&show_icons=true&theme=dark#gh-dark-mode-only" alt="https://github.com/evandromsantana/github-readme-stats#gh-dark-mode-only"/>
+</p>
