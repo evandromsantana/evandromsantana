@@ -1,56 +1,77 @@
 <div align="center">
-   <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="40"/> Hi, I'm Evandro Santana</h1>
-  <h4>I'm a software engineer passionate about technology, programming, and design. My passion is to create innovative and efficient solutions that enhance the user experience and solve problems creatively.</h4>
+  <!-- Saudação Animada -->
+  <img src="https://vercel.app" width="100%" />
+
+  <br />
+  
+  <h3>👋 Olá, mundo! Bem-vindo ao meu ecossistema de desenvolvimento.</h3>
+  
+  <p>
+    Sou um Engenheiro de Software Full-Stack focado em construir aplicações web e mobile de alta performance. 
+    Minha especialidade é unir a fluidez de interfaces modernas no Front-end com a robustez e escalabilidade de arquiteturas no Back-end.
+  </p>
+
+  <!-- Status Rápidos -->
+  <p>
+    <img src="https://shields.io" alt="Status"/>
+    <img src="https://shields.io" alt="Foco"/>
+  </p>
 </div>
-<h5 align="left">Connect with me:</h5>
-<p align="center">
-<a href="https://www.evandrosantana.com/">
-    <img src="https://img.shields.io/badge/-evandrosantana.com-3423A6?style=flat-square&logo=Google-Chrome&logoColor=white" alt="Website"/>
-  </a>
-  <a href="https://instagram.com/evandrodemacedosa">
-    <img src="https://img.shields.io/badge/-@evandrodemacedosa_-E4405F?style=flat-square&logo=Instagram&logoColor=white" alt="Instagram"/>
-  </a>  
-  <a href="https://linkedin.com/in/evandro-m-santana">
-    <img src="https://img.shields.io/badge/-Evandro%20Santana-0077B5?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:evandromsantana@hotmail.com">
-    <img src="https://img.shields.io/badge/-evandromsantana@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-<p>
-🔭 I’m currently working as a Front-end Engineer at
-<a
-    href="https://www.sead.pi.gov.br/"
-    rel="noreferrer"
-    >
-    Secretaria da Administração - (SEAD-PI).
-</a>
-</p>
-<p>
-🌱 Main technologies I like to work with: ReactJS, React Native, NextJS, Typescript, NodeJS...
-</p>
-<p>   
-🤝 I'm looking to contribute to open source projects.
-</p>
-<h2>🛠 &nbsp;Tech Stack</h2>
-<h3>💻 &nbsp;Front-end:</h3>
-<p>
-  <img src="https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5" alt="HTML"/>
-  <img src="https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6" alt="CSS"/>
-  <img src="https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/-React-333333?style=flat&logo=react" alt="React"/>
-  <img src="https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react" alt="React Native"/>
-  <img src="https://img.shields.io/badge/-Vue-333333?style=flat&logo=vue.js" alt="Vue"/>
-</p>
-<h3>⚙️ &nbsp;Back-end and Databases:</h3>
-<p>
-  <img src="https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/-NestJS-333333?style=flat&logo=nestjs&logoColor=E535AB" alt="NestJS"/>
-  <img src="https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql" alt="PostgreSQL"/>
-</p>
-<h2>🚀 &nbsp;A Little More About Me</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=evandromsantana&show_icons=true&theme=dark#gh-dark-mode-only" alt="https://github.com/evandromsantana/github-readme-stats#gh-dark-mode-only"/>
-</p>
+
+<hr />
+
+## ⚡ O que eu faço
+
+- 🌐 **Front-end Avançado:** Criação de SPAs, SSR e SSG utilizando o ecossistema React, Next.js, arquitetura de componentes reutilizáveis e gerenciamento de estado complexo.
+- ⚙️ **Back-end Escalável:** Desenvolvimento de APIs RESTful e GraphQL robustas com Node.js e NestJS, aplicando princípios SOLID, Clean Architecture e segurança de dados.
+- 📱 **Mobile Multiplataforma:** Desenvolvimento de aplicativos nativos para Android e iOS com React Native.
+- 🏛️ **Atuação Pública:** Atualmente aplicando engenharia de software para otimizar sistemas internos na **Secretaria da Administração (SEAD-PI)**.
+
+<hr />
+
+## 🛠️ Meu Arsenal Tecnológico (Tech Stack)
+
+### 🎨 Front-end Engineering
+`HTML5` • `CSS3` • `JavaScript (ES6+)` • `TypeScript` • `React.js` • `Next.js` • `React Native` • `Vue.js` • `TailwindCSS` • `Styled Components`
+
+### 🏗️ Back-end & Infraestrutura
+`Node.js` • `NestJS` • `Express` • `REST APIs` • `GraphQL` • `PostgreSQL` • `MongoDB` • `Prisma ORM` • `Docker` • `Git & GitHub`
+
+<br />
+
+<!-- Gráfico Visual de Habilidades -->
+<div align="center">
+  <img src="https://vercel.app" alt="Linguagens Mais Utilizadas" height="180px"/>
+</div>
+
+<hr />
+
+## 📈 Métricas de Engenharia
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://vercel.app" alt="Estatísticas do GitHub" height="180px"/>
+      </td>
+      <td>
+        <img src="https://herokuapp.com" alt="Streak de Contribuições" height="180px"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<hr />
+
+## 🔮 Diretrizes de Desenvolvimento (Como eu trabalho)
+
+1. **Código Limpo:** Priorizo legibilidade, testes automatizados e manutenibilidade.
+2. **Performance em Primeiro Lugar:** Otimização de Core Web Vitals no Front e queries eficientes no Back.
+3. **Segurança Avançada:** Implementação rigorosa de autenticação (JWT/OAuth), sanitização de inputs e proteção contra vulnerabilidades OWASP.
+
+<hr />
+
+<div align="center">
+  <p>💻 Desenvolvido com foco em segurança, performance e design.</p>
+  <img src="https://komarev.com" alt="Contador de Visitas" />
+</div>
